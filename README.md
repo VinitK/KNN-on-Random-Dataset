@@ -1,2 +1,1 @@
-# KNN-on-Random-Dataset
-# ml-knn-with-random-dataset
+# ML using KNN with random dataset
